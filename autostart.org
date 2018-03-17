@@ -1,0 +1,3 @@
+xfce4-panel --restart  # before xmonad
+xmonad --replace
+unclutter -idle 1 -root # any time
